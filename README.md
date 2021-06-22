@@ -1,9 +1,8 @@
-<img src="https://github.com/Aakarsh-B/trying-repos/blob/master/Colorful%20Simple%20Science%20Class%20Education%20Presentation.png">
+<img src="https://github.com/RiteshPuvvada/riteshpuvvada.github.io/blob/main/img/blog/YOJ1.PNG">
 <br/>
 <br/>
 
-## Heyyo, I'm <a href="https://aakarsh.me" target="_blank">Aakarsh</a>!
-(Use dark theme to find my socials ;)
+## Heyyo, I'm Ritesh!
 
 <a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
 <a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
