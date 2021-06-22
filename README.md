@@ -1,4 +1,4 @@
-<img src="https://github.com/RiteshPuvvada/riteshpuvvada.github.io/blob/main/img/blog/YOJ1.PNG">
+![Dreamer](https://user-images.githubusercontent.com/73629361/122938326-4a494800-d390-11eb-932c-3864a371c919.png)
 <br/>
 <br/>
 
