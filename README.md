@@ -70,14 +70,7 @@
 </p>
   
 <br/>
-  
----
- 
-### Now Playing 🎧
-
-[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/mr5jgbqp3jw221j271iz2nix9)
-<br/>
-  
+    
 ---
 ## 📊 Github stats
 
@@ -95,6 +88,9 @@
   <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
+  <!--START_SECTION:activity-->
+  </details>
+
    
   
   ---
