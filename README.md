@@ -1,18 +1,14 @@
-![Dreamer](https://user-images.githubusercontent.com/73629361/122938326-4a494800-d390-11eb-932c-3864a371c919.png)
+![Dreamer](https://user-images.githubusercontent.com/73629361/123788462-ab759c00-d8f9-11eb-8dc5-5082ff0b456c.png)
 <br/>
 <br/>
 
 ## Heyyo, I'm Ritesh!
 
 <a href="https://riteshpuvvada.github.io/" target="_blank"><img align="left" alt="Ritesh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://linkedin.com/in/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
-<a href="https://behance.net/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Behance" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/behance.svg" />
-<a href="https://dribbble.com/aakarshb" target="_blank"><img align="left" alt="Aakarsh B | Dribbble" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dribbble.svg" />
-<a href="https://instagram.com/_.aakarsh._" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
-<a href="https://twitter.com/Aakarsh-Bhttps://www.w3.org/html/" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
-<a href="https://medium.com/@aakarshbiju" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
-<a href="https://dev.to/aakarshb" target="_blank"><img align="left" alt="dev to aakarsh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/dev-badge.svg" /></a>
-
+<a href="https://www.linkedin.com/in/ritesh-puvvada-656489196/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" />
+<a href="https://www.instagram.com/riteshpuvvada/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" />
+<a href="https://twitter.com/RiteshPuvvada" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" />
+<a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <br />
 <br />
 <br />
