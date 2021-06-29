@@ -68,9 +68,12 @@
     <img title="🔥" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=RiteshPuvvada&theme=neon-palenight&hide_border=true"/>
   </a>
 </p>
+<br>
   
-<br/>
-    
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-riteshpuvvada.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
+[![Spotify](https://novatorem-riteshpuvvada.vercel.app/api/spotify)](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
 ---
 ## 📊 Github stats
 
@@ -90,8 +93,6 @@
   <br/>
   <!--START_SECTION:activity-->
   </details>
-
-   
   
   ---
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
