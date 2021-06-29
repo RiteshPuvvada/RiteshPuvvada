@@ -70,9 +70,9 @@
 </p>
 <br>
   
-### Spotify Playing 🎧
+### Now Playing 🎧
 
-[![Spotify](https://novatorem-nine-sandy.vercel.app/api/spotify)](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
+[![Spotify](https://github-readme-remake.vercel.app/api/spotify)](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
 ---
 ## 📊 Github stats
 
