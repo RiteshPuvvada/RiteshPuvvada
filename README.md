@@ -72,7 +72,7 @@
   
 ### Spotify Playing 🎧
 
-[<img src="https://riteshreadme.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
+[<img src="https://riteshreadme-riteshpuvvada.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
 
 ---
 ## 📊 Github stats
