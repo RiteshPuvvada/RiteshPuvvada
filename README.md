@@ -71,7 +71,7 @@
 <br>
   
 ### Now Playing 🎧
-[![Spotify](https://github-readme-remake-riteshpuvvada.vercel.app/api/spotify)](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
+[![Spotify](https://riteshreadme.vercel.app/api/spotify)](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
 
 ---
 ## 📊 Github stats
