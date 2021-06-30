@@ -70,8 +70,9 @@
 </p>
 <br>
   
-### Now Playing 🎧
-[![Spotify](https://riteshreadme.vercel.app/api/spotify)](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
+### Spotify Playing 🎧
+
+[<img src="https://riteshreadme.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
 
 ---
 ## 📊 Github stats
