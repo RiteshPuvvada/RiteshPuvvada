@@ -68,12 +68,7 @@
     <img title="🔥" alt="DenverCoder1's streak" src="http://github-readme-streak-stats.herokuapp.com?user=RiteshPuvvada&theme=neon-palenight&hide_border=true"/>
   </a>
 </p>
-<br>
   
-### Spotify Playing 🎧
-
-[<img src="https://riteshreadme-riteshpuvvada.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/95kzr9qnrolgpoehp7778sm35)
-
 ---
 ## 📊 Github stats
   <br/>
