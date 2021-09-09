@@ -11,7 +11,8 @@
 <a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" />
 <br />
 <br />
-<p align="left"><img src="https://komarev.com/ghpvc/?username=RiteshPuvvada&color=blueviolet&style=flat" alt="Ritesh"/></p>
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=RiteshPuvvada&label=Profile%20views&color=blueviolet&style=flat" alt="Ritesh" /></p>
   
 ## 🛠️ My favorite tools
 
