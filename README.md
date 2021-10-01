@@ -4,11 +4,12 @@
 
 ## Heyyo, I'm Ritesh!
 
-<a href="https://riteshpuvvada.github.io/" target="_blank"><img align="left" alt="Ritesh" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/www.svg" /></a>
-<a href="https://www.linkedin.com/in/ritesh-puvvada/" target="_blank"><img align="left" alt="Aakarsh B | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
-<a href="https://www.instagram.com/riteshpuvvada/" target="_blank"><img align="left" alt="Aakarsh B | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
-<a href="https://twitter.com/RiteshPuvvada" target="_blank"><img align="left" alt="Aakarsh B | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
-<a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Aakarsh B | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /></a>
+<a href="https://riteshpuvvada.github.io/" target="_blank"><img align="left" alt="Ritesh | Nightmare" width="25px" src="https://github.com/RiteshPuvvada/riteshpuvvada.github.io/blob/main/favicon-32x32.png" /></a>
+<a href="https://www.linkedin.com/in/ritesh-puvvada/" target="_blank"><img align="left" alt="Ritesh | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https://www.instagram.com/riteshpuvvada/" target="_blank"><img align="left" alt="Ritesh  | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+<a href="https://twitter.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
+<a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Ritesh | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /></a>
+
 <br />
 <br />
 
