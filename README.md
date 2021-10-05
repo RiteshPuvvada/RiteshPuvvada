@@ -113,7 +113,7 @@
     <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-### 📍 FindMe
+### 🤝 Connect with me
 
 <p>
     <a href="https://www.instagram.com/riteshpuvvada/"><img alt="Ritesh | Instagram" src="https://img.shields.io/badge/riteshpuvvada-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
@@ -122,6 +122,8 @@
     <a href="mailto:riteshpuvvada@outlook.com"><img alt="Ritesh | Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
   <a href="https://t.me/RiteshPuvvada"><img alt="Ritesh | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://twitter.com/RiteshPuvvada"><img alt="Ritesh | Twitter" src="https://img.shields.io/badge/RiteshPuvvada-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+ <a href="https://discord.com/users/Ritesh#6158"><img alt="Ritesh | Discord" src="https://img.shields.io/badge/Ritesh%236158-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+ 
 </p>
 
 ---
