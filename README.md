@@ -129,12 +129,22 @@
 ---
   
 ## 🔥 Streak stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RiteshPuvvada&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<p align="center">
+  <a href="https://github.com/RiteshPuvvada">
+    <img title="🔥" alt="Ritesh streak" src="https://github-readme-streak-stats.herokuapp.com?user=RiteshPuvvada&theme=dracula&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5A56DD&fire=44CCDD&currStreakNum=DD8F5A&dates=DD705A"/>
+  </a>
+</p>
+ 
 ---
   
 ## 🔧 Top Languages 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+ <a href="https://github.com/RiteshPuvvada">
+  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&layout=compact">
+ </a>
+</p>
 
 ---
 ## 📊 Github stats
