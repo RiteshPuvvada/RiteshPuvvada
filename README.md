@@ -154,8 +154,5 @@
   </p>
   
   ---
-<<<<<<< HEAD
+  
   <a href="https://github.com/RiteshPuvvada"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-=======
-  <a href="https://github.com/RiteshPuvvada"><img alt="Ritesh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
->>>>>>> 12205bc89787785229005ed76f673d2722b09c6d
