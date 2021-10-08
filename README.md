@@ -146,24 +146,13 @@
  </a>
 </p>
 
-### Recent Activity
-
-<!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs/issues/1) in [RiteshPuvvada/Real-Time-Chat-Supabase-NextJs](https://github.com/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs)
-2. ❗️ Opened issue [#1](https://github.com/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs/issues/1) in [RiteshPuvvada/Real-Time-Chat-Supabase-NextJs](https://github.com/RiteshPuvvada/Real-Time-Chat-Supabase-NextJs)
-3. 🗣 Commented on [#34](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute/issues/34) in [himanshu608/Hacktoberfest-2021-learn-to-contribute](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute)
-4. 💪 Opened PR [#34](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute/pull/34) in [himanshu608/Hacktoberfest-2021-learn-to-contribute](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute)
-5. 💪 Opened PR [#33](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute/pull/33) in [himanshu608/Hacktoberfest-2021-learn-to-contribute](https://github.com/himanshu608/Hacktoberfest-2021-learn-to-contribute)
-<!--END_SECTION:activity-->
-
-
 ---
 ## 📊 Github stats
 
 <p>
   <br/>
     <a href="https://github.com/RiteshPuvvada">
-     <img alt="Ritesh" src="https://github-readme-stats.vercel.app/api?username=RiteshPuvvada&theme=dracula&hide_border=true&show_icons=true&count_private=true&bg_color=1F222E" height="192px"/></a>
+     <img alt="Ritesh" src="https://github-readme-stats.vercel.app/api?username=RiteshPuvvada&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="192px"/></a>
   </p>
   
   ---
