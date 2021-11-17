@@ -142,7 +142,7 @@
 
 <p align="center">
  <a href="https://github.com/RiteshPuvvada">
-  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&layout=compact">
+  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&langs_count=15&layout=compact">
  </a>
 </p>
 
