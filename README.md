@@ -8,13 +8,13 @@
 
 <a href="https://github.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Github" width="25px" src="assets\icons\github.png" /></a>
 
-<a href="https://www.linkedin.com/in/ritesh-puvvada/" target="_blank"><img align="left" alt="Ritesh | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+<a href="https://www.linkedin.com/in/ritesh-puvvada/" target="_blank"><img align="left" alt="Ritesh | LinkedIn" width="22px" src="assets\icons\linkedin.png" /></a>
 
-<a href="https://www.instagram.com/riteshpuvvada/" target="_blank"><img align="left" alt="Ritesh  | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+<a href="https://www.instagram.com/riteshpuvvada/" target="_blank"><img align="left" alt="Ritesh  | Instagram" width="22px" src="assets\icons\instagram.png" /></a>
 
-<a href="https://twitter.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
+<a href="https://twitter.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Twitter" width="22px" src="assets\icons\twitter.png" /></a>
 
-<a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Ritesh | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /></a>
+<a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Ritesh | Medium" width="22px" src="assets\icons\medium.png" /></a>
 
 <br />
 <br />
