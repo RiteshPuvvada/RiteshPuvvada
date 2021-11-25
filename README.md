@@ -4,7 +4,7 @@
 
 ## Heyyo, I'm Ritesh!
 
-<a href="https://riteshpuvvada.github.io/" target="_blank"><img align="left" alt="Ritesh | Nightmare" width="35px" src="https://github.com/RiteshPuvvada/riteshpuvvada.github.io/blob/main/favicon-32x32.png" /></a>
+<a href="https://riteshpuvvada.github.io/" target="_blank"><img align="left" alt="Ritesh | Nightmare" width="35px" src="assets\icons\owl.png" /></a>
 
 <a href="https://github.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Github" width="35px" src="assets\icons\github.png" /></a>
 
