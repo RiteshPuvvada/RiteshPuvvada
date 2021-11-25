@@ -144,7 +144,7 @@
 
 <p align="center">
  <a href="https://github.com/RiteshPuvvada">
-  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&langs_count=15&layout=compact">
+  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&langs_count=15&layout=compact&count_private=true&hide_border=true&bg_color=212237&text_color=e31d44">
  </a>
 </p>
 
