@@ -161,4 +161,4 @@
   ---
   
 <a href="https://github.com/RiteshPuvvada">
- <img alt="Ritesh" src="https://activity-graph.herokuapp.com/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <img alt="Ritesh" src="https://readmeactivity.herokuapp.com/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
