@@ -5,9 +5,15 @@
 ## Heyyo, I'm Ritesh!
 
 <a href="https://riteshpuvvada.github.io/" target="_blank"><img align="left" alt="Ritesh | Nightmare" width="25px" src="https://github.com/RiteshPuvvada/riteshpuvvada.github.io/blob/main/favicon-32x32.png" /></a>
+
+<a href="https://github.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Github" width="25px" src="assets\icons\github.png" /></a>
+
 <a href="https://www.linkedin.com/in/ritesh-puvvada/" target="_blank"><img align="left" alt="Ritesh | LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/linkedin.svg" /></a>
+
 <a href="https://www.instagram.com/riteshpuvvada/" target="_blank"><img align="left" alt="Ritesh  | Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/insta.svg" /></a>
+
 <a href="https://twitter.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Twitter" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/twitter.svg" /></a>
+
 <a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Ritesh | Medium" width="22px" src="https://github.com/Aakarsh-B/trying-repos/blob/master/medium.svg" /></a>
 
 <br />
@@ -43,22 +49,19 @@
 
 </p>
 
-
 ### 🔨 Frameworks and Libraries
 
 <p>
 
-  <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | AngularJS" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Acss"><img alt="Ritesh | BootStrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
-  <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
-  <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
+<a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | AngularJS" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Acss"><img alt="Ritesh | BootStrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
+<a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
+<a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 
 </p>
-
-
 
 ### 🗄️ Databases and cloud hosting
 
@@ -127,7 +130,7 @@
 </p>
 
 ---
- 
+
 ## 🔥 Streak stats
 
 <p align="center">
@@ -138,7 +141,7 @@
  
 ---
   
-## 🔧 Top Languages 
+## 🔧 Top Languages
 
 <p align="center">
  <a href="https://github.com/RiteshPuvvada">
@@ -147,6 +150,7 @@
 </p>
 
 ---
+
 ## 📊 Github stats
 
 <p>
