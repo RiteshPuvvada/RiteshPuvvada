@@ -152,11 +152,11 @@
 
 ## 📊 Github stats
 
-<p>
+<p align="center">
   <br/>
     <a href="https://github.com/RiteshPuvvada">
      <img alt="Ritesh" src="https://github-readme-stats.vercel.app/api?username=RiteshPuvvada&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="192px"/></a>
-  </p>
+</p>
   
   ---
   
