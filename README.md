@@ -1,4 +1,4 @@
-![Dreamer](https://user-images.githubusercontent.com/73629361/123788462-ab759c00-d8f9-11eb-8dc5-5082ff0b456c.png)
+<img title="🔥" alt="Break" src="assets\images\Dreamer.gif">
 <br/>
 <br/>
 
@@ -20,10 +20,9 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=RiteshPuvvada&label=Profile%20views&color=blueviolet&style=flat" alt="Ritesh" /></p>
 <div align="center">
- <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+ <img title="🔥" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
 
- 
 ### ⚙️ Workstation
 
 <p>
@@ -132,7 +131,7 @@
 </p>
 
 <div align="center">
- <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+ <img title="🔥" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
 
 ## 🔥 Streak stats
@@ -144,7 +143,7 @@
 </p>
  
 <div align="center">
- <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+ <img title="🔥" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
   
 ## 🔧 Top Languages
@@ -156,7 +155,7 @@
 </p>
 
 <div align="center">
- <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+ <img title="🔥" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
 
 ## 📊 Github stats
@@ -168,7 +167,7 @@
 </p>
   
 <div align="center">
- <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+ <img title="🔥" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
 <br>
   
