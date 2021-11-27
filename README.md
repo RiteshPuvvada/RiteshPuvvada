@@ -19,6 +19,10 @@
 <br/>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=RiteshPuvvada&label=Profile%20views&color=blueviolet&style=flat" alt="Ritesh" /></p>
+<div align="center">
+ <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+</div>
+
  
 ### ⚙️ Workstation
 
@@ -125,10 +129,11 @@
   <a href="https://t.me/RiteshPuvvada"><img alt="Ritesh | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://twitter.com/RiteshPuvvada"><img alt="Ritesh | Twitter" src="https://img.shields.io/badge/RiteshPuvvada-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  <a href="https://discord.com/users/Ritesh#6158"><img alt="Ritesh | Discord" src="https://img.shields.io/badge/Ritesh%236158-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
- 
 </p>
 
----
+<div align="center">
+ <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+</div>
 
 ## 🔥 Streak stats
 
@@ -138,7 +143,9 @@
   </a>
 </p>
  
----
+<div align="center">
+ <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+</div>
   
 ## 🔧 Top Languages
 
@@ -148,17 +155,23 @@
  </a>
 </p>
 
----
+<div align="center">
+ <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+</div>
 
 ## 📊 Github stats
 
 <p align="center">
-  <br/>
-    <a href="https://github.com/RiteshPuvvada">
-     <img alt="Ritesh" src="https://github-readme-stats.vercel.app/api?username=RiteshPuvvada&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="192px"/></a>
+ <br/>
+ <a href="https://github.com/RiteshPuvvada">
+  <img alt="Ritesh" src="https://github-readme-stats.vercel.app/api?username=RiteshPuvvada&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="192px"/>  </a>
 </p>
   
-  ---
+<div align="center">
+ <img title="🔥" alt="Break" src="https://user-images.githubusercontent.com/73629361/143679315-eadac4bb-9384-4f99-997c-5d67adfe680f.png" width="100%">
+</div>
+<br>
   
 <a href="https://github.com/RiteshPuvvada">
- <img alt="Ritesh" src="https://readmeactivity.herokuapp.com/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+ <img alt="Ritesh" src="https://readmeactivity.herokuapp.com/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+</a>
