@@ -1,4 +1,4 @@
-<img title="🔥" alt="Break" src="assets\images\Dreamer.gif">
+<img title="🔥" alt="Break" src="assets\images\Dreamer.gif" width="100%">
 <br/>
 
 ## Heyyo, I'm Ritesh!
