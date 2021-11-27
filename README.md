@@ -1,6 +1,5 @@
 <img title="🔥" alt="Break" src="assets\images\Dreamer.gif">
 <br/>
-<br/>
 
 ## Heyyo, I'm Ritesh!
 
