@@ -153,7 +153,7 @@
 
 <p align="center">
  <a href="https://github.com/RiteshPuvvada">
-  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&langs_count=15&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
+  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshPuvvada&langs_count=12&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
  </a>
 </p>
 
