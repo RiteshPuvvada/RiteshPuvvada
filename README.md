@@ -132,6 +132,7 @@
   <a href="https://t.me/RiteshPuvvada"><img alt="Ritesh | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
   <a href="https://twitter.com/RiteshPuvvada"><img alt="Ritesh | Twitter" src="https://img.shields.io/badge/RiteshPuvvada-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
  <a href="https://discord.com/users/Ritesh#6158"><img alt="Ritesh | Discord" src="https://img.shields.io/badge/Ritesh%236158-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
+ <a href="https://riteshpuvvada.github.io/resume/Ritesh-resume.pdf"><img alt="Ritesh | Resume" src="https://img.shields.io/badge/Résumé -EC1C24.svg?style=for-the-badge"></a>
 </p>
 
 <div align="center">
