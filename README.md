@@ -65,7 +65,7 @@
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 <a href="#"><img alt="Yarn" src ="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
-<a href="#"><img alt="Terraform" src ="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>
+<a href="https://github.com/search?l=HCL&q=user%3ARiteshPuvvada+is%3Arepo+language%3Arust&type=Repositories"><img alt="Terraform" src ="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>
  
 
 </p>
