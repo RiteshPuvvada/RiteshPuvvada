@@ -157,7 +157,7 @@
 
 <p align="center">
  <a href="https://github.com/RiteshPuvvada">
-  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpuvvada&langs_count=10&hide=html,Jupyter%20Notebook&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
+  <img title="🔥" alt="Ritesh top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=riteshpuvvada&langs_count=10&hide=html,Jupyter%20Notebook,css&layout=compact&count_private=true&hide_border=true&bg_color=282a36&text_color=f7f7f1&title_color=7957d4">
  </a>
 </p>
 
