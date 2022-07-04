@@ -150,7 +150,7 @@
 </p>
  
 <div align="center">
- <img title="🔥" alt="Break" src="assets\images\rainbow.png" width="100%">
+ <img title="break" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
   
 ## 🔧 Top Languages
