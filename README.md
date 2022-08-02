@@ -19,7 +19,7 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=RiteshPuvvada&label=Profile%20views&color=blueviolet&style=flat" alt="Ritesh" /></p>
 <div align="center">
- <img title="break" alt="Break" src="assets\images\rainbow.png" width="100%">
+ <img title="br" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
 
 ### ⚙️ Workstation
