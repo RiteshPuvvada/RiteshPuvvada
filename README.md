@@ -58,17 +58,16 @@
 
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | AngularJS" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Acss"><img alt="Ritesh | BootStrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></a>
- <a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
+<a href="#"><img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | ExpressJS" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"></a>
- <a href="#"><img alt="Flask" src ="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
- <a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
+<a href="#"><img alt="Flask" src ="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"></a>
+<a href="#"><img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NextJS" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"></a>
 <a href="https://github.com/search?q=user%3ARiteshPuvvada+is%3Arepo+language%3Ajavascript"><img alt="Ritesh | React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"></a>
 <a href="https://github.com/search?l=HCL&q=user%3ARiteshPuvvada+is%3Arepo+language%3Arust&type=Repositories"><img alt="Terraform" src ="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white"></a>
- <a href="#"><img alt="Yarn" src ="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
- 
+<a href="#"><img alt="Yarn" src ="https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white"></a>
 
 </p>
 
@@ -182,5 +181,5 @@
 <br>
   
 <a href="https://github.com/RiteshPuvvada">
- <img alt="Ritesh" src="https://github-readme-activity-graph.cyclic.app/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+ <img alt="Ritesh" src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </a>
