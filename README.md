@@ -1,7 +1,8 @@
 <img title="background" alt="img" src="assets\images\Dreamer.png" width="100%">
 <br/>
 
-## Heyyo, I'm Ritesh!
+# Heyyo, I'm Ritesh!
+### 💬 “Turning coffee ☕ into clean code and dreams 🌙 into deployments.”  
 
 <a href="https://riteshpuvvada.github.io/" target="_blank"><img align="left" alt="Ritesh | Nightmare" width="35px" src="assets\icons\owl.png" /></a>
 
@@ -155,7 +156,7 @@
  <img title="break" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
   
-## 🔧 Top Languages
+## 📚 Top Languages Used
 
 <p align="center">
  <a href="https://github.com/RiteshPuvvada">
@@ -167,7 +168,7 @@
  <img title="🔥" alt="Break" src="assets\images\rainbow.png" width="100%">
 </div>
 
-## 📊 Github stats
+## 📈 GitHub Statistics
 
 <p align="center">
  <br/>
@@ -183,3 +184,17 @@
 <a href="https://github.com/RiteshPuvvada">
  <img alt="Ritesh" src="https://github-readme-activity-graph.vercel.app/graph?username=RiteshPuvvada&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
 </a>
+
+## 🦇 Bat-Inspired Tech Chronicles 
+
+- The Batcave isn’t dark. It’s just running in low-latency mode. 
+- Even in the darkest logs, there’s always a trace. 
+- Justice is automated. So is my CI/CD.
+- Even in chaos, there’s a version control.
+- You call it overengineering. I call it Gotham-ready.
+- My Batmobile runs on Docker.
+- I don’t trust luck. I trust my logs.
+- Fear is a variable. I debug it daily.
+- I don’t wear a cape. I deploy from the command line.
+- The Batcave isn’t a hideout. It’s a deployment pipeline.
+- 💻 — Ritesh Puvvada
