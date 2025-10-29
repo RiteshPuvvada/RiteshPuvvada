@@ -206,6 +206,19 @@
   <img title="divider" alt="Break" src="assets/images/rainbow.png" width="100%">
 </div>
 
+## 🐍 Watch My Code Crawl Through the Batcave
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RiteshPuvvada/RiteshPuvvada/blob/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RiteshPuvvada/RiteshPuvvada/blob/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Snake" src="https://github.com/RiteshPuvvada/RiteshPuvvada/blob/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</p>
+<div align="center">
+  <img title="divider" alt="Break" src="assets/images/rainbow.png" width="100%">
+</div>
+
 ## 🦇 Bat-Inspired Tech Chronicles 
 
 - The Batcave isn’t dark. It’s just running in low-latency mode. 
