@@ -10,10 +10,6 @@
 
 <a href="https://www.linkedin.com/in/ritesh-puvvada/" target="_blank"><img align="left" alt="Ritesh | LinkedIn" width="35px" src="assets\icons\linkedin.png" /></a>
 
-<a href="https://www.instagram.com/riteshpuvvada/" target="_blank"><img align="left" alt="Ritesh  | Instagram" width="35px" src="assets\icons\instagram.png" /></a>
-
-<a href="https://twitter.com/RiteshPuvvada" target="_blank"><img align="left" alt="Ritesh | Twitter" width="35px" src="assets\icons\twitter.png" /></a>
-
 <a href="https://riteshpuvvada.medium.com/" target="_blank"><img align="left" alt="Ritesh | Medium" width="35px" src="assets\icons\medium.png" /></a>
 <br/>
 <br/>
@@ -154,18 +150,6 @@
   <a href="#"><img alt="Windows" src="https://img.shields.io/badge/Windows-005A9E?style=for-the-badge&logo=windows&logoColor=white"></a>
 </p>
 
-### 🤝 Connect with me
-
-<p>
-    <a href="https://www.instagram.com/riteshpuvvada/"><img alt="Ritesh | Instagram" src="https://img.shields.io/badge/riteshpuvvada-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-    <a href="https://www.linkedin.com/in/ritesh-puvvada/"><img alt="Ritesh | LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a href="https://riteshpuvvada.medium.com/"><img alt="Ritesh | Medium" src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white"></a>
-    <a href="mailto:riteshpuvvada@outlook.com"><img alt="Ritesh | Outlook" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
-  <a href="https://t.me/RiteshPuvvada"><img alt="Ritesh | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-  <a href="https://twitter.com/RiteshPuvvada"><img alt="Ritesh | Twitter" src="https://img.shields.io/badge/RiteshPuvvada-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
- <a href="https://discord.com/users/Ritesh#6158"><img alt="Ritesh | Discord" src="https://img.shields.io/badge/Ritesh%236158-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"></a>
- <a href="https://riteshpuvvada.github.io/resume/Ritesh-resume.pdf"><img alt="Ritesh | Resume" src="https://img.shields.io/badge/Résumé -EC1C24.svg?style=for-the-badge"></a>
-</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=520&lines=The+Batcave+boots+faster+than+fear;Silence+isn’t+peace,+it’s+processing;Logs+don’t+lie,+they+whisper+truth;Systems+fail,+but+I+fail+gracefully;Darkness+isn’t+empty,+it’s+encrypted;I+don’t+panic,+I+rollback;Every+bug+is+a+villain+with+a+stacktrace;My+keyboard+is+my+grappling+hook;I+don’t+sleep,+I+standby;Gotham+runs+on+automated+pipelines" 
