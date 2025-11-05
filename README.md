@@ -190,8 +190,6 @@
   <img title="divider" alt="Break" src="assets/images/rainbow.png" width="100%">
 </div>
 
-## 🐍 Watch My Code Crawl Through the Batcave
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RiteshPuvvada/RiteshPuvvada/blob/output/github-contribution-grid-snake-dark.svg">
